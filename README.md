@@ -1,3 +1,1 @@
-## This is abdul Vasay
-Sample
-
+## This Sample Repositry of GitHub Demo Session
