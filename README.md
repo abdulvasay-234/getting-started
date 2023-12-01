@@ -2,4 +2,4 @@
 - Branches
 - Pull request
 - Issses
-- Etc
+- Explore projects
