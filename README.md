@@ -1,3 +1,1 @@
-## Imagination Repo-2
-Sample
-
+## This Sample Repositry of GitHub Demo Session
