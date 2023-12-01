@@ -1,4 +1,4 @@
-# sample GitHub Session
+# sample Github Session
 - Branches
 - Pull request
 - Issses
